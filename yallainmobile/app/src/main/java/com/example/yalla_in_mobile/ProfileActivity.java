@@ -16,7 +16,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
-//TODO : person 2
+
 public class ProfileActivity extends AppCompatActivity {
 
     private TextView usernameTextView;
