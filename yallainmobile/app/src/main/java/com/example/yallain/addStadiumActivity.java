@@ -15,7 +15,7 @@ import android.util.Log;
 import android.widget.Toast;
 
 import com.example.yallain.databinding.ActivityAddStadiumBinding;
-import com.example.yallain.databinding.ActivityMainBinding;
+
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.firestore.DocumentReference;
