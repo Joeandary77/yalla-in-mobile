@@ -8,10 +8,15 @@
         android:minSdkVersion="33"
         android:targetSdkVersion="34" />
 
-    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
-    <!-- <uses-sdk android:minSdkVersion="21"/> -->
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
 
     <permission
@@ -28,13 +33,16 @@
         android:extractNativeLibs="false"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
-        android:label="yallain"
+        android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Yallainmobile" >
         <activity
-            android:name="com.example.yallain.MainActivity"
+            android:name="com.example.yallain.addStadiumActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.yallain.LoginActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -42,6 +50,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.yallain.SignupActivity" />
+        <activity android:name="com.example.yallain.MainActivity" />
+        <activity android:name="com.example.yallain.HistoryActivity" />
+        <activity android:name="com.example.yallain.ProfileActivity" />
+        <activity android:name="com.example.yallain.StadiumsActivity" />
 
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"

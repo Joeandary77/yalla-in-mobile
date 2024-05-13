@@ -1,22 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-mergeDebugResources-39:\\layout\\activity_add_stadium.xml",
-        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-42:\\layout\\activity_add_stadium.xml"
+        "merged": "com.example.yallain.app-mergeDebugResources-39:/layout/activity_login.xml",
+        "source": "com.example.yallain.app-main-42:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-mergeDebugResources-39:\\layout\\activity_history.xml",
-        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-42:\\layout\\activity_history.xml"
+        "merged": "com.example.yallain.app-mergeDebugResources-39:/layout/activity_history.xml",
+        "source": "com.example.yallain.app-main-42:/layout/activity_history.xml"
     },
     {
-        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-mergeDebugResources-39:\\layout\\activity_signup.xml",
-        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-42:\\layout\\activity_signup.xml"
+        "merged": "com.example.yallain.app-mergeDebugResources-39:/layout/activity_signup.xml",
+        "source": "com.example.yallain.app-main-42:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.yallain.app-mergeDebugResources-39:/layout/activity_add_stadium.xml",
+        "source": "com.example.yallain.app-main-42:/layout/activity_add_stadium.xml"
     },
     {
         "merged": "com.example.yallain.app-mergeDebugResources-39:/layout/activity_stadiums.xml",
         "source": "com.example.yallain.app-main-42:/layout/activity_stadiums.xml"
-    },
-    {
-        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-mergeDebugResources-39:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-42:\\layout\\activity_login.xml"
     }
 ]

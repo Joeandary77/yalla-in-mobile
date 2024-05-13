@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900738174369",
+    "project_id": "yalla-in-mobile",
+    "storage_bucket": "yalla-in-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900738174369:android:9b5c12816acbd843780fe0",
+        "android_client_info": {
+          "package_name": "com.example.yallain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvMQqRxR_Yn1Vq1PqTmIrEb-64nRigaIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
