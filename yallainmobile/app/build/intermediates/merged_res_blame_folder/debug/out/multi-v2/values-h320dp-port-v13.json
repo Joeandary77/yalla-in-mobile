@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.yallain.app-mergeDebugResources-34:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "outputFile": "com.example.yallain.app-mergeDebugResources-38:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Daniel\\.gradle\\caches\\transforms-3\\817cd0206bebc082d15ae6f341fef4ec\\transformed\\material-1.12.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
