@@ -42,6 +42,8 @@ drawable tennismontlasalle
 drawable thepadelist
 drawable tripolifootball
 id addStadium
+id bascketball
+id btm_nav
 id btm_navigation
 id button_cancel
 id button_rent
@@ -49,7 +51,10 @@ id choosePhoto
 id closePopup
 id edit_text_hours
 id femaleRadioButton
+id football
 id homeButton
+id lay1
+id lay2
 id listViewHistory
 id loginRedirectText
 id login_button
@@ -57,6 +62,7 @@ id login_email
 id login_password
 id logoutButton
 id maleRadioButton
+id paddel
 id price_txt
 id profileButton
 id profilePicture
@@ -74,6 +80,7 @@ id signup_dob
 id signup_email
 id signup_full_name
 id signup_password
+id spinnerSports
 id sportTitle
 id stadium1_cardview
 id stadium1_layout
@@ -84,6 +91,8 @@ id stadiumPrice
 id stadiumname_txt
 id submitButton
 id submitStadium
+id tennis
+id textContent2
 id textView
 id textView2
 id textView3
@@ -92,6 +101,8 @@ id text_view_message
 id text_view_title
 id usernameTextView
 id viewHistoryButton
+id welcome
+id yallaInLayout
 id yallaInLoginText
 id yallaInSignupText
 id yallaInText
@@ -109,6 +120,12 @@ layout stadium_item
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
 style Base.Theme.Yallainmobile
 style Theme.Yallainmobile
 xml backup_rules

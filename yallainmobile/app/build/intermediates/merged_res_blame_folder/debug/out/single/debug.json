@@ -1,210 +1,214 @@
 [
     {
-        "merged": "com.example.yallain.app-merged_res-40:/layout_dialog_item.xml.flat",
-        "source": "com.example.yallain.app-main-42:/layout/dialog_item.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\layout_stadium_item.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\layout\\stadium_item.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_thepadelist.jpeg.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/thepadelist.jpeg"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\layout_custom_item.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\layout\\custom_item.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_tennis.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/tennis.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_login.jpeg.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/login.jpeg"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.yallain.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_saidafootball.jpeg.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\saidafootball.jpeg"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_basketball.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/basketball.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_tennis.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\tennis.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/xml_backup_rules.xml.flat",
-        "source": "com.example.yallain.app-main-42:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\layout_popup_rate_us.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\layout\\popup_rate_us.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "com.example.yallain.app-main-42:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_rateus.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\rateus.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.yallain.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_football.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\football.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_saidafootball.jpeg.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/saidafootball.jpeg"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\layout\\activity_signup.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_rateus.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/rateus.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\layout_activity_add_stadium.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\layout\\activity_add_stadium.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.yallain.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_tennismontlasalle.webp.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/tennismontlasalle.webp"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/layout_activity_login.xml.flat",
-        "source": "com.example.yallain.app-main-42:/layout/activity_login.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/layout_activity_add_stadium.xml.flat",
-        "source": "com.example.yallain.app-main-42:/layout/activity_add_stadium.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_tennisdbayeh.jpeg.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\tennisdbayeh.jpeg"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_outline_calendar_today_black_24.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/outline_calendar_today_black_24.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_stadium.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\stadium.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_ic_add.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/ic_add.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_outline_calendar_today_black_24.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\outline_calendar_today_black_24.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_tennisdbayeh.jpeg.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/tennisdbayeh.jpeg"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/layout_activity_signup.xml.flat",
-        "source": "com.example.yallain.app-main-42:/layout/activity_signup.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_login.jpeg.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\login.jpeg"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.yallain.app-main-42:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_stadwhite.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\stadwhite.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.yallain.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\layout_activity_stadiums.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\layout\\activity_stadiums.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/layout_stadium_item.xml.flat",
-        "source": "com.example.yallain.app-main-42:/layout/stadium_item.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.yallain.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_thepadelist.jpeg.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\thepadelist.jpeg"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_paddle.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/paddle.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_racket.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\racket.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_pass.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\pass.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_stadium.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/stadium.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_football.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/football.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_calendar.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\calendar.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_lavender_border.xml.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/lavender_border.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\layout\\activity_history.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\logout.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.yallain.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_sports.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\sports.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.yallain.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\baseline_email_24.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/layout_activity_profile.xml.flat",
-        "source": "com.example.yallain.app-main-42:/layout/activity_profile.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_sports.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/sports.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_basketball.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\basketball.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_logout.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/logout.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\profile.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.yallain.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_lock.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\lock.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_calendar.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/calendar.png"
+        "merged": "com.example.yallain.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "com.example.yallain.app-main-43:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.yallain.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\layout\\activity_profile.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/layout_activity_stadiums.xml.flat",
-        "source": "com.example.yallain.app-main-42:/layout/activity_stadiums.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/layout_activity_main.xml.flat",
-        "source": "com.example.yallain.app-main-42:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_tripolifootball.jpeg.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\tripolifootball.jpeg"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_lock.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/lock.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_tennismontlasalle.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\tennismontlasalle.webp"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_tripolifootball.jpeg.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/tripolifootball.jpeg"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_pass.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/pass.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/layout_custom_item.xml.flat",
-        "source": "com.example.yallain.app-main-42:/layout/custom_item.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_profile.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/profile.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "com.example.yallain.app-main-42:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_lavender_border.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\lavender_border.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_stadwhite.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/stadwhite.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_paddle.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\paddle.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_baseline_email_24.xml.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/baseline_email_24.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.yallain.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_home.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\home.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/layout_popup_rate_us.xml.flat",
-        "source": "com.example.yallain.app-main-42:/layout/popup_rate_us.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_home.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/home.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\drawable_ic_add.png.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\drawable\\ic_add.png"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/drawable_racket.png.flat",
-        "source": "com.example.yallain.app-main-42:/drawable/racket.png"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.yallain.app-merged_res-40:/layout_activity_history.xml.flat",
-        "source": "com.example.yallain.app-main-42:/layout/activity_history.xml"
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\layout_dialog_item.xml.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\layout\\dialog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-merged_res-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daniel\\.gradle\\daemon\\8.2\\com.example.yallain.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
     }
 ]

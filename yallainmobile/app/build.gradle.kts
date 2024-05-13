@@ -1,14 +1,16 @@
 plugins {
     id("com.android.application")
-    id("com.google.gms.google-services")
+    id("com.google.gms.google-services") version "4.3.10"
 }
 
 android {
     compileSdk = 34
 
+    namespace= "com.example.yallain"
+
     defaultConfig {
         applicationId = "com.example.yallain"
-        minSdk = 24
+        minSdk = 26
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -27,11 +29,19 @@ android {
 
     buildFeatures {
         viewBinding = true
+        dataBinding = true
     }
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
+    }
+    buildToolsVersion = "34.0.0"
+
+    afterEvaluate {
+        tasks.named("mergeDebugResources").configure {
+            mustRunAfter("processDebugGoogleServices")
+        }
     }
 }
 
@@ -41,7 +51,7 @@ dependencies {
     implementation("com.google.firebase:firebase-storage")
     implementation("com.google.firebase:firebase-firestore")
     implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.google.android.material:material:1.4.0") // Updated version
+    implementation ("com.google.android.material:material:1.5.0")// Updated version
     implementation("androidx.constraintlayout:constraintlayout:2.1.3") // Updated version
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.3") // Updated version

@@ -44,6 +44,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">yalla-in-mobile</string>
+    <string name="gcm_defaultSenderId" translatable="false">900738174369</string>
+    <string name="google_api_key" translatable="false">AIzaSyDvMQqRxR_Yn1Vq1PqTmIrEb-64nRigaIE</string>
+    <string name="google_app_id" translatable="false">1:900738174369:android:9b5c12816acbd843780fe0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDvMQqRxR_Yn1Vq1PqTmIrEb-64nRigaIE</string>
+    <string name="google_storage_bucket" translatable="false">yalla-in-mobile.appspot.com</string>
+    <string name="project_id" translatable="false">yalla-in-mobile</string>
     <style name="Base.Theme.Yallainmobile" parent="Theme.Material3.DayNight.NoActionBar">
         
         

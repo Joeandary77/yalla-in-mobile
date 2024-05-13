@@ -1,12 +1,12 @@
-#Mon May 13 17:32:00 EEST 2024
-base.0=C\:\\Users\\ACER\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\ACER\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\ACER\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.3=C\:\\Users\\ACER\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
-base.4=C\:\\Users\\ACER\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
-base.5=C\:\\Users\\ACER\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.6=C\:\\Users\\ACER\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.7=C\:\\Users\\ACER\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+#Mon May 13 20:46:34 EEST 2024
+base.0=C\:\\Users\\Daniel\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\Daniel\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\Daniel\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.3=C\:\\Users\\Daniel\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.4=C\:\\Users\\Daniel\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+base.5=C\:\\Users\\Daniel\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.6=C\:\\Users\\Daniel\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.7=C\:\\Users\\Daniel\\Documents\\GitHub\\yalla-in-mobile\\yallainmobile\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=11/classes.dex
